@@ -7,4 +7,5 @@ Absolutely no changes should be made to the materialize7 or material_theme theme
 
 1. Download the zip package.
 2. Unzip package and rename resulting folder to material_custom.
-3. upload the folder and all contents to the /code/sites/all/themes folder of your new site.
+3. Upload the folder and all contents to the /code/sites/all/themes folder of your new site.
+4. Enable the new theme and set it as the default theme.
