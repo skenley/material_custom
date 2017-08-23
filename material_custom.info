@@ -25,10 +25,9 @@ regions[footer]         = 'Footer'
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
 
-stylesheets[all][] = css/custom.css ; All custom css for this site goes here.
-
+stylesheets[all][] = css/custom.css
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Scripts
 ;;;;;;;;;;;;;;;;;;;;;
-scripts[] = js/tm_jquery.js ; All custom js for this site goes here.
+scripts[] = js/tm_jquery.js
