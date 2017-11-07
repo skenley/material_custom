@@ -2,7 +2,7 @@ name = Material Custom Theme
 description = This theme is used to add site specific theming to the Tribute Media D7 Base upstream sites on Pantheon. This theme requires the material_theme base theme.
 version = 1.0
 core = 7.x
-base theme = material_theme
+base theme = materialize7
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Regions
