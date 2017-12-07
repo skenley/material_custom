@@ -42,8 +42,6 @@ Use this checklist as a guideline:
 
 h1,h2,h3,h4,h5,h6 {font-family: 'Lato', sans-serif; font-weight:700; color:#222222;}
 
-.page div,.page p,.page span {font-family: 'Lato', sans-serif; font-weight:500; color:#333;}
-
 h1 {
 	padding-bottom:5px;
 	text-transform:uppercase;
